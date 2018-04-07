@@ -4,7 +4,7 @@ output:
   html_document:
     keep_md: true
 ---
-##My first R Markdown report: a new glance of reproducible research
+## My first R Markdown report: a new glance of reproducible research
 
 This is a report of a exploratory analysis from a dataset of activity monitoring data, recorded from devices such as Fitbit or Nike Fuelband.   
 
